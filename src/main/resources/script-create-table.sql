@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS Employee (
     first_name TEXT,
     is_active INTEGER,
     mother_last_name TEXT,
-    position TEXT,
+    job_title TEXT,
     salary REAL,
-    sex TEXT
+    gender TEXT
 );
